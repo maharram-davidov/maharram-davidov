@@ -61,6 +61,14 @@ Document classification using OCR and image processing.
 
 ---
 
+### 🔹 Crypto News Monitoring & Analysis Bot
+Telegram bot for tracking and analyzing cryptocurrency news.
+- Real-time news aggregation
+- Automated AI-based summarization and commentary
+- Event-driven system design for timely alerts
+
+🔗 Repo: https://github.com/maharram-davidov/cryptonews-tgbot
+
 ## 📈 Current Goals
 - Strengthening practical ML understanding through experimentation
 - Improving system-level thinking in AI applications
