@@ -30,36 +30,28 @@ Rather than low-level algorithm development, I focus on:
 
 ## 📌 Selected Projects
 
-### 🔹 Scam Call Detection System
-Applied ML system for classifying scam-related calls.
-- Data preprocessing and feature handling
-- Model experimentation and threshold tuning
-- REST API integration for real-time predictions
-- Focus on reducing false positives and improving reliability
+### 🔹 Scam Message Detection API
+Applied machine learning system for detecting scam-related messages.
+- End-to-end ML pipeline design
+- Feature-based risk scoring and threshold tuning
+- REST API integration using FastAPI
+- Emphasis on evaluation, limitations, and real-world usability
 
-🔗 Repo: https://github.com/maharram-davidov/scamcalldedector
+🔗 Repo: https://github.com/maharram-davidov/messagedetectotapi
 
 ---
 
 ### 🔹 News Credibility Analysis Bot
 Telegram bot for automated analysis of news credibility.
 - Text preprocessing and NLP-based analysis
-- End-to-end pipeline design
-- Integration with messaging systems for real-time feedback
+- End-to-end pipeline experimentation
+- Real-time system integration
 
 🔗 Repo: https://github.com/maharram-davidov/newschecker-tgbot
 
 ---
 
-### 🔹 Web3 Risk Detection Bot
-Telegram-based system for identifying potential rug-pull risks.
-- Risk scoring logic design
-- Data-driven alert generation
-- Practical focus on real-time system behavior
 
-🔗 Repo: https://github.com/maharram-davidov/rugshield-tgbot
-
----
 
 ### 🔹 OCR-Based Document Processing
 Document classification using OCR and image processing.
