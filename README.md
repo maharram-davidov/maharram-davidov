@@ -68,7 +68,7 @@ Telegram bot for tracking and analyzing cryptocurrency news.
 - Automated AI-based summarization and commentary
 - Event-driven system design for timely alerts
 
-🔗 Repo: https://github.com/maharram-davidov/cryptonews-tgbot
+🔗 Repo: https://github.com/maharram-davidov/cryptonewsbot
 
 ## 📈 Current Goals
 - Strengthening practical ML understanding through experimentation
