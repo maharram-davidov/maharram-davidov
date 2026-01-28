@@ -47,7 +47,7 @@ Telegram bot for automated analysis of news credibility.
 - End-to-end pipeline experimentation
 - Real-time system integration
 
-🔗 Repo: https://github.com/maharram-davidov/cryptonewsbot
+🔗 Repo: https://github.com/maharram-davidov/newschecker-tgbot
 
 ---
 
@@ -80,3 +80,4 @@ Telegram bot for tracking and analyzing cryptocurrency news.
 ## 📫 Contact
 - GitHub: https://github.com/maharram-davidov
 - LinkedIn: https://www.linkedin.com/in/maharram-davidov-042863296/
+- eMail: meherrem.davudov@gmail.com
