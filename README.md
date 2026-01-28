@@ -47,7 +47,7 @@ Telegram bot for automated analysis of news credibility.
 - End-to-end pipeline experimentation
 - Real-time system integration
 
-🔗 Repo: https://github.com/maharram-davidov/newschecker-tgbot
+🔗 Repo: https://github.com/maharram-davidov/cryptonewsbot
 
 ---
 
@@ -59,6 +59,7 @@ Document classification using OCR and image processing.
 - Structuring unstructured data
 - Exporting results for downstream analysis
 
+🔗 Repo: https://github.com/maharram-davidov/anti-quizbot
 ---
 
 ### 🔹 Crypto News Monitoring & Analysis Bot
